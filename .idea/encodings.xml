@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/controller/KeepMailController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/controller/LoginController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/controller/RegisterController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/controller/SettingsController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/controller/toAccountController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/controller/toChangePasswordController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/controller/toUserNameController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/mapper/DataMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/service/DiseaseService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/service/DownService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/service/RegisterService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/service/SettingsService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/utils/Compressor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/utils/DownLoadUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/utils/ZipCompresssor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bih/utils/oldList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/Test.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/static/static/dist/distpicker.js" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
