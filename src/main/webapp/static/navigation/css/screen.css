@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/***控制不同的屏幕宽度**/
+.default-layout .layout-main {
+    width: 1080px;
+    margin: 20px auto 0;
+    overflow: initial; }
+
+.default-layout .homepage-main {
+    width: 1080px; }
+
+.public-community-layout .layout-main {
+    width: 1416px;
+    margin: 0 auto; }
+
+.public-community-layout .header-main {
+    width: 1416px;
+    margin: 0 auto;
+    display: flex; }
+
+.public-home-layout .layout-main {
+    width: 1216px;
+    margin: 0 auto; }
+
+.public-home-layout .layout-sidebar {
+    width: 288px;
+    position: relative; }
+
+.public-home-layout .layout-sidebar .js-fixed {
+    position: fixed;
+    bottom: 20px; }
+
+.public-home-layout .header-main {
+    width: 1216px;
+    margin: 0 auto;
+    display: flex; }

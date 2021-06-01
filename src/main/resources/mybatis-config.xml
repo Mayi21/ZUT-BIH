@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<!--    <settings>-->
+<!--        <setting name="mapUnderscoreToCamelCase	" value="true"/>-->
+<!--    </settings>-->
+  <properties resource="dbconfig.properties"></properties>
+    <typeAliases>
+        <typeAlias type="com.bih.bean.user" alias="user"></typeAlias>
+        <typeAlias type="com.bih.bean.data" alias="data"></typeAlias>
+        <typeAlias type="com.bih.bean.record" alias="record"></typeAlias>
+    </typeAliases>
+
+    <environments default="record">
+        <environment id="user">
+            <transactionManager type="JDBC"></transactionManager>
+            <dataSource type="POOLED">
+                <property name="url" value="${jdbc.jdbcUrl}"></property>
+                <property name="driver" value="${jdbc.driverClass}"></property>
+                <property name="username" value="${jdbc.user}"></property>
+                <property name="password" value="${jdbc.password}"></property>
+            </dataSource>
+        </environment>
+        <environment id="data">
+            <transactionManager type="JDBC"></transactionManager>
+            <dataSource type="POOLED">
+                <property name="url" value="${jdbc.jdbcUrl}"></property>
+                <property name="driver" value="${jdbc.driverClass}"></property>
+                <property name="username" value="${jdbc.user}"></property>
+                <property name="password" value="${jdbc.password}"></property>
+            </dataSource>
+        </environment>
+        <environment id="record">
+            <transactionManager type="JDBC"></transactionManager>
+            <dataSource type="POOLED">
+                <property name="url" value="${jdbc.jdbcUrl}"></property>
+                <property name="driver" value="${jdbc.driverClass}"></property>
+                <property name="username" value="${jdbc.user}"></property>
+                <property name="password" value="${jdbc.password}"></property>
+            </dataSource>
+        </environment>
+    </environments>
+<!--    加载映射关系-->
+<mappers>
+    <package name="com.bih.mapper"/>
+</mappers>
+
+</configuration>

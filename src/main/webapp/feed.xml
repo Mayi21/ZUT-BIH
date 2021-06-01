@@ -1,0 +1,680 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PhysioNet News</title>
+        <link>https://www.physionet.org/feed.xml</link>
+        <description> News from the research resource for complex physiologic signals </description>
+        <atom:link href="https://www.physionet.org/feed.xml" rel="self" type="application/rss+xml"/>
+        <language>en-us</language>
+        <pubDate>15 Feb 2021 17:18 -0500</pubDate>
+        <lastBuildDate>15 Feb 2021 17:18 -0500</lastBuildDate>
+        <docs>http://www.rssboard.org/rss-specification</docs>
+        <item>
+            <title>A tribute to George Moody</title>
+            <link>https://physionet.org/users/gmoody/</link>
+            <pubDate>15 Feb 2021 17:18 -0500</pubDate>
+            <description><p><img alt="George Moody" src="/users/gmoody/profile-photo/" width="300"></p> <p>We are deeply saddened to announce the passing of George Moody, one of the original PhysioNet team. George passed away as a consequence of COVID-19 on February 13, 2021, surrounded by his family, Edna, Benjamin, Jeremy and Melissa.</p> <p>George has been a fundamental part of PhysioNet since the beginning, stretching back into the late 70s and early 1980&#39;s. George developed the WFDB libraries, and much of code that can be found on PhysioNet today, which underpins the Research Resource for Complex Physiologic Signals, and the fundamentals of ECG signal processing. George&#39;s work spanned state-of-the-art QRS detection, beat classification, noise assessment, and heart rate variability, among other areas. A pioneer and stalwart of open source principles, his work has blazed a trail in the field of physiological signal processing. This was acknowledged in 2016 by the AAMI, which awarded him (jointly with Ary Goldberger and Roger Mark) its most prestigious prize, <a href="https://archive.physionet.org/award2016.shtml">the Laufman-Greatbatch Award</a>.</p> <p>George is perhaps best known for his design and implementation of the PhysioNet/CinC Challenges, which he ran for 15 years, from inception in 2000, until 2014, after which he retired due to ill health. These Challenges have pushed the field forward, stimulating research and translation, long before most, if not all, other public data science competitions began.</p> <p>George was generous with his time and took pride in answering almost every email he received. He tirelessly devoted himself to the field, supporting everyone, from the newest student, to the giants of industry. At Computing in Cardiology, which he attended every year from 1979 to 2014, he was often the star of the show, generating a unique buzz around the Challenges. He also served on the board of the conference for longer than anyone, and was an active member of that community for over 30 years, contributing over 70 articles to the proceedings.</p> <p>George began his career as an undergraduate at MIT, studying physics. His (sometimes supernatural) skill at C coding led him to work on the seminal MIT-BIH Arrhythmia Database with Roger Mark and Ary Goldberger. (Still today, this database is at the core of many FDA applications.) After his student days George became a research scientist at MIT in Roger Mark&#39;s group and remained there until retirement. As with all good physicists, George was a polymath. You could talk to him about any subject and realize his depth of thought was exceptional. There wasn&#39;t a subject on which he couldn&#39;t offer a genuinely deep and informed opinion. Yet he listened to everyone and treated all ideas and views with the utmost respect.</p> <p>George was a man who appreciated life to its fullest. Perhaps his most impressive characteristic was that he always put his family first. A wonderful father and husband, he always made time for those he loved.</p> <p>Edna mentioned that George&#39;s favorite charity was Partners In Health (<a href="https://www.pih.org/">pih.org</a>), and requested that anyone wishing to make a gesture in remembrance of him, to please direct it there.</p> <p>George was loved by us all, and we miss him enormously. He leaves an enduring legacy for the next generation, although he would be much too humble to ever acknowledge that fact.</p></description>
+            <guid isPermaLink="false">94efc73f-5762-4d42-bc34-ad76c7866225</guid>
+        </item>
+        <item>
+            <title>New applications for credentialed access to PhysioNet have been paused until January</title>
+            <pubDate>17 Dec 2020 11:36 -0500</pubDate>
+            <description><p>We have taken the difficult decision to pause all new applications for&nbsp;<a href="https://physionet.org/settings/credentialing/">credentialed access</a> to PhysioNet until 4th&nbsp;January 2021. We apologize for this&nbsp;inconvenience&nbsp;and we will be working hard to clear the backlog of applications in time for opening again in the New Year. Over the coming months, we will also be implementing changes to PhysioNet that we hope will streamline the process for future applications.</p></description>
+            <guid isPermaLink="false">f13eabc1-d3fd-45e1-86a0-54aa980b327a</guid>
+        </item>
+        <item>
+            <title>MIMIC-IV is now available!</title>
+            <pubDate>17 Aug 2020 14:15 -0400</pubDate>
+            <description><p>We are delighted to announce that MIMIC-IV has been <a href="https://doi.org/10.13026/a3wn-hq05">published on PhysioNet</a>! MIMIC-IV, the latest version of&nbsp;MIMIC, is a database comprising comprehensive clinical information on hospital stays for patients admitted to a tertiary academic medical center in Boston, MA, USA.</p> <p>Major changes from <a href="https://doi.org/10.13026/C2XW26">MIMIC-III</a> include: (1) a modular structure that links core hospital data to multiple data sources, including chest x-ray images; (2) an approach to date shifting that provides approximate year of admission; (3) new sources of data; such as the electronic medicine administration record.</p> <p>The dataset is available from PhysioNet, and access is managed in the same way as MIMIC-III. If you already have access to MIMIC-III, then you will be granted access after signing the Data Use Agreement in the <a href="https://physionet.org/content/mimiciii/1.4/#files">&quot;Files&quot; section</a> of the project. New users will need to complete the credentialing process first (see: <a href="https://mimic-iv.mit.edu/docs/access/">https://mimic-iv.mit.edu/docs/access/</a> for more details). For detailed guidelines on using MIMIC-IV, see <a href="https://mimic-iv.mit.edu/">the documentation</a>!</p></description>
+            <guid isPermaLink="false">93f000cf-73a9-472c-b2ca-3605d22ac2ab</guid>
+        </item>
+        <item>
+            <title>Opportunity to join the PhysioNet team [Update: this position is no longer available.]</title>
+            <pubDate>11 Aug 2020 13:25 -0400</pubDate>
+            <description><p>The MIT Laboratory for Computational Physiology is seeking a Post-Doctoral Associate to conduct independent research in health care informatics. The Laboratory is an NIH-supported multi-disciplinary group of clinicians, data scientists and engineers that produced the publicly distributed and growing <a href="https://doi.org/10.13026/C2XW26">MIMIC database</a>. It is a rich and open research resource that supports signal processing and machine learning research leading to new knowledge and patient-specific prognostic and therapeutic guidance for critical care.&nbsp;</p> <p>The Postdoc will contribute to the design and management of the current and future MIMIC databases, and will conduct multidisciplinary original research together with clinicians. The position provides the opportunity to interact with a world-class laboratory comprised of engineers, mathematicians and clinical staff working at the frontiers of translational medicine and advanced research in the domain of critical care informatics and machine learning. The Research Fellow will both contribute to ongoing research projects and propose innovative new projects suitable for research grant funding.</p> <p>The ideal candidate has a doctoral degree in science or engineering, or a related discipline to assure high level understanding of the research environment. Experience in relational database development and administration is important, ideally in a medical environment. Competence and experience in a subset of the following is expected: Linux, Python, data&nbsp;management. Knowledge of medical terminology is desirable. Strong interpersonal and communication skills are essential.&nbsp;[Update: this position is no longer available.]</p></description>
+            <guid isPermaLink="false">5fab5706-8257-4c90-8857-a2e56968fde6</guid>
+        </item>
+        <item>
+            <title>New on PhysioNet: the HiRID critical care dataset</title>
+            <link>https://physionet.org/content/hirid/</link>
+            <pubDate>5 Jun 2020 12:29 -0400</pubDate>
+            <description><p>We are pleased to announce the release of the HiRID critical care dataset, developed as part of a collaboration between Bern University Hospital and the Swiss Federal Institute of Technology (ETH). HiRID is a freely accessible critical care dataset containing data relating to more than 33 thousand admissions to the Department of Intensive Care Medicine of the Bern University Hospital, Switzerland, an interdisciplinary 60-bed unit admitting &gt;6,500 patients per year.&nbsp;</p></description>
+            <guid isPermaLink="false">b559f3b3-d446-4f49-b5f7-b3592043f87f</guid>
+        </item>
+        <item>
+            <title>Significant delays are expected to applications for credentialed access to PhysioNet.</title>
+            <pubDate>25 Mar 2020 20:43 -0400</pubDate>
+            <description><p>We are currently dealing with a high volume of applications for <a href="https://physionet.org/settings/credentialing/">credentialed access</a> to PhysioNet, so please expect significant delays in the review process. We are doing our best to deal with the waitlist quickly, handling applications in the order in which they are received. To help ensure that your application is successful, please remember to:</p> <ul> <li>Include a copy of your CITI training report (<strong><em>not</em></strong> the certificate).</li> <li>Remind your reference to reply promptly when contacted.</li> <li>Check your application details are correct before submitting.</li> </ul> <p>We apologize for the inconvenience. Please bear with us during this busy time!</p></description>
+            <guid isPermaLink="false">a9821b68-4266-482f-8b79-0755976bd936</guid>
+        </item>
+        <item>
+            <title>Congratulations to the winners of the 2020 WiDS Challenge</title>
+            <pubDate>2 Mar 2020 11:55 -0500</pubDate>
+            <description><p>Congratulations to <a href="https://www.businesswire.com/news/home/20200302005801/en/Global-WiDS-Announces-Winner-2020-WiDS-Datathon">the winners</a>&nbsp;of the 2020 Women in Data Science (WiDS) <a href="https://doi.org/10.13026/vc0e-th79">Challenge</a>. The event attracted 951 teams&nbsp;from over 80 countries&nbsp;who competed on&nbsp;models to predict the outcome of critically ill patients. The dataset used in the study, sourced from the GOSSIS (Global Open Source Severity of Illness Score) Consortium, comprised detailed information on over 130,000 ICU stays. For updates on future challenges by WiDS, subscribe to the <a href="https://widsconference.us20.list-manage.com/subscribe?u=61c83c789d19bc2bcdf0e666f&amp;id=b2eeb279f9">WiDS mailing list</a>.</p></description>
+            <guid isPermaLink="false">4255534b-f60d-4c15-9f2d-49b1bf97d879</guid>
+        </item>
+        <item>
+            <title>Announcing the PhysioNet/​Computing in Cardiology Challenge 2020 on Classification of 12-lead ECGs</title>
+            <link>https://physionetchallenges.github.io/2020/</link>
+            <pubDate>10 Feb 2020 17:09 -0500</pubDate>
+            <description><p>We are delighted to announce the PhysioNet/Computing in Cardiology Challenge 2020 on Classification of 12-lead ECGs.&nbsp;</p> <p>For more information, see the Challenge website:&nbsp;<a href="https://physionetchallenges.github.io/2020/">https://physionetchallenges.github.io/2020/</a></p> <p>Quick links for this year&#39;s Challenge can be found here:</p> <ul> <li>Registration form: <a href="https://bit.ly/37d21iN">https://bit.ly/37d21iN</a></li> <li>Public discussion forum: <a href="https://groups.google.com/forum/#!forum/physionet-challenges">https://groups.google.com/forum/#!forum/physionet-challenges</a></li> <li>Rules and deadlines: <a href="https://physionetchallenges.github.io/2020/#rules-and-deadlines">https://physionetchallenges.github.io/2020/#rules-and-deadlines</a></li> </ul> <p>More information will be posted on the website linked above (and eventually mirrored on physionet.org/challenge/2020 with a delay as it is available). Please check the Challenge forum for real time updates. Please also post questions and comments in the forum. However, if your question reveals information about your entry, then please email challenge [at] physionet.org. We may post parts of our reply publicly if we feel that all Challengers should benefit from the information contained in our responses. We will not answer emails about the Challenge to any other address.</p> <p>Many thanks again for your continued support of this event and we hope you enjoy this year&#39;s challenge.&nbsp;</p></description>
+            <guid isPermaLink="false">03d41979-3e03-4a2b-8e42-4a30a162b187</guid>
+        </item>
+        <item>
+            <title>MIMIC-CXR paper published!</title>
+            <link>https://www.nature.com/articles/s41597-019-0322-0</link>
+            <pubDate>10 Feb 2020 16:06 -0500</pubDate>
+            <description><p>A journal article describing the MIMIC-CXR database was recently published in&nbsp;<em>Scientific Data</em>. The article provides detail regarding the collection, curation, and processing done in order to create the database. The article is open access and available online [1].</p> <p>The database has also been preprocessed into compressed JPG format images, which have been made available on PhysioNet as the <a href="https://physionet.org/content/mimic-cxr-jpg/">MIMIC-CXR-JPG Database</a>. The database includes labels extracted from the free-text reports using publicly available tools. You can read more about the creation of this resource in our arXiv preprint [2].</p> <p>Finally, we have created the <a href="https://github.com/MIT-LCP/mimic-cxr">mimic-cxr&nbsp;GitHub repository</a> for collaborative code development on MIMIC-CXR [3]. The code used to generate MIMIC-CXR-JPG from MIMIC-CXR is available in the repository already. We welcome code contributions from all users, and we encourage discussion of the data via the GitHub issues.</p> <p>[1]&nbsp;<a href="https://www.nature.com/articles/s41597-019-0322-0">Johnson AE, Pollard TJ, Berkowitz SJ, Greenbaum NR, Lungren MP, Deng CY, Mark RG, Horng S. MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports. Scientific Data. 2019;6.</a></p> <p>[2] <a href="https://arxiv.org/abs/1901.07042">Johnson AE, Pollard TJ, Greenbaum NR, Lungren MP, Deng C-Y, Peng Y, Lu Z, Mark RG, Berkowitz SJ, Horng S.&nbsp;MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs. arXiv preprint arXiv:1901.07042. 2019.</a></p> <p>[3]&nbsp;<a href="https://github.com/MIT-LCP/mimic-cxr">https://github.com/MIT-LCP/mimic-cxr</a></p></description>
+            <guid isPermaLink="false">885c4453-4525-4f86-8475-c5feef66b951</guid>
+        </item>
+        <item>
+            <title>WiDS (Women in Data Science) Challenge Announced! Register your team by 24 February 2020</title>
+            <link>https://physionet.org/content/widsdatathon2020/1.0.0/</link>
+            <pubDate>23 Jan 2020 14:18 -0500</pubDate>
+            <description><p>The <a href="https://physionet.org/content/widsdatathon2020/">WiDS Datathon 2020</a> focuses on patient health through data from&nbsp;<a href="https://gossis.mit.edu/">MIT&rsquo;s GOSSIS (Global Open Source Severity of Illness Score)</a>&nbsp;initiative. Brought to you by the Global WiDS team, the&nbsp;<a href="https://westbigdatahub.org/">West Big Data Innovation Hub</a>, and the&nbsp;<a href="https://www.widsconference.org/committee-2020.html">WiDS Datathon Committee</a>. Winners will be announced at the WiDS Conference at Stanford University and via livestream, reaching a community of 100,000+ data enthusiasts across more than 50 countries.</p> <p><img alt="WiDS Challenge 2020" src="/files/widsdatathon2020/1.0.0/sponsors-wids-2020.png" width="500"></p></description>
+            <guid isPermaLink="false">169b623d-3cc5-4606-ba2a-40be5f61a1b9</guid>
+        </item>
+        <item>
+            <title>Opportunity for a Research Software Engineer to join the PhysioNet team</title>
+            <pubDate>21 Nov 2019 16:00 -0500</pubDate>
+            <description><p><span><span><span>The MIT Laboratory for Computational Physiology is seeking a Research Software Engineer to support and undertake projects focused on improving patient care. Joining a team of data scientists and clinicians, the Engineer will help to manage the system network, write code for research studies, and initiate and develop research software. </span></span></span></p> <p><span><span><span>The position would be a good fit for someone with a&nbsp;</span>bachelor&rsquo;s or master&rsquo;s&nbsp;degree<span>&nbsp;</span>in a technical subject&nbsp;such as biomedical engineering, physics, computer science, or equivalent experience. For more details, please see the job posting on the <a href="https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=17714&amp;localeCode=en-us">MIT website</a>&nbsp;or <a href="https://physionet.org/about/#contact">contact us</a> directly if you have questions.</span></span></p></description>
+            <guid isPermaLink="false">aacf80c0-d606-442d-b241-d06a7526a685</guid>
+        </item>
+        <item>
+            <title>Community forum for the 2019 PhysioNet/CinC Challenge</title>
+            <link>https://groups.google.com/forum/#!forum/physionet-challenges</link>
+            <pubDate>5 Nov 2019 12:51 -0500</pubDate>
+            <description><p>If you have any questions or comments regarding this challenge, please post it directly in our&nbsp;<a href="https://groups.google.com/forum/#!forum/physionet-challenges">Community Discussion Forum</a>. This will increase transparency (benefiting all the competitors) and ensure that all the challenge organizers see your question.</p></description>
+            <guid isPermaLink="false">9ba86f99-d032-4829-b67e-3148ffd05225</guid>
+        </item>
+        <item>
+            <title>Official paper describing the 2019 PhysioNet Challenge</title>
+            <pubDate>4 Nov 2019 16:45 -0500</pubDate>
+            <description><p>The <a href="/content/challenge-2019/1.0.0/physionet_challenge_2019_ccm_manuscript.pdf">official paper describing the 2019 PhysioNet Challenge</a> will appear in <a href="https://journals.lww.com/ccmjournal/pages/default.aspx">Critical Care Medicine</a>.</p></description>
+            <guid isPermaLink="false">48f8f21c-dd90-4849-b288-20de711c4fe1</guid>
+        </item>
+        <item>
+            <title>MIMIC-III available on the cloud</title>
+            <link>https://mimic.physionet.org/gettingstarted/cloud/</link>
+            <pubDate>30 Sep 2019 14:28 -0400</pubDate>
+            <description><p>The MIMIC-III database is now&nbsp;available on two major cloud platforms: Google Cloud Platform (GCP) and Amazon Web Services (AWS). To access the data on the cloud, simply add the relevant cloud identifier to your PhysioNet profile. Further instructions are available on the <a href="https://mimic.physionet.org/gettingstarted/cloud/">MIMIC-III website</a>.</p> <p>Tutorials are available for&nbsp;<a href="https://mimic.physionet.org/tutorials/intro-to-mimic-iii-bq/">using MIMIC-III with BigQuery (GCP)</a>&nbsp;and&nbsp;<a href="https://aws.amazon.com/blogs/big-data/perform-biomedical-informatics-without-a-database-using-mimic-iii-data-and-amazon-athena/">using MIMIC-III with Athena (AWS)</a>.</p></description>
+            <guid isPermaLink="false">9071c263-a4c2-4a80-bfa0-cdbb92411cfa</guid>
+        </item>
+        <item>
+            <title>MIMIC-CXR Database v2.0.0 now available!</title>
+            <link>https://physionet.org/content/mimic-cxr/</link>
+            <pubDate>27 Sep 2019 13:11 -0400</pubDate>
+            <description><p>The MIMIC-CXR Database has been updated to v2.0.0. The database now contains&nbsp;DICOM format image files and free-text radiology reports. All data has been de-identified.</p> <p>Credentialed users can access the data after signing the data use agreement.</p> <p>Some users may have preferred the JPG format images for convenience, despite the information loss when storing the images in this format. We plan to release a distinct&nbsp;project on PhysioNet which contains&nbsp;the same images as MIMIC-CXR but in JPG format. This distinct project will also contain structured labels derived from the radiology report. Stay tuned!</p></description>
+            <guid isPermaLink="false">d8d5d55e-a175-42cb-b040-32aca5e9d2e6</guid>
+        </item>
+        <item>
+            <title>Official results for the 2019 PhysioNet Challenge</title>
+            <link>https://physionet.org/content/challenge-2019/</link>
+            <pubDate>17 Sep 2019 15:31 -0400</pubDate>
+            <description><p>Official results for the 2019 <a href="https://physionetchallenges.org/2019/results/challenge.tsv">Challenge</a> and <a href="https://physionetchallenges.org/2019/results/hackathon.tsv">Hackathon</a> are now available.</p></description>
+            <guid isPermaLink="false">4923fb84-a304-4cf9-863e-b039be8f6370</guid>
+        </item>
+        <item>
+            <title>Pre-conference hackathon at Computing in Cardiology 2019</title>
+            <pubDate>8 Jul 2019 20:00 -0400</pubDate>
+            <description><ul> <li>Thanks to our sponsors, a pre-conference hackathon (with prize(s)) will take place on Sunday 8th September in Singapore. Registration is required. Rules and more information can be found <a href="/content/challenge-2019/1.0.0/#hackathon">here</a> .</li> </ul></description>
+            <guid isPermaLink="false">7bad2785-b3f6-409a-8018-d32a89b9dcdf</guid>
+        </item>
+        <item>
+            <title>"Wild card" teams approved for the 2019 PhysioNet Challenge</title>
+            <pubDate>23 Jun 2019 20:00 -0400</pubDate>
+            <description><ul> <li>Two &quot;wild card&quot;&nbsp;teams were approved for inclusion in the Challenge. We are looking forward to meeting them in Singapore!</li> </ul></description>
+            <guid isPermaLink="false">0253773f-06be-4d7f-b76d-66ba5774fbdf</guid>
+        </item>
+        <item>
+            <title>Google Cloud credits for the PhysioNet Challenge</title>
+            <pubDate>28 May 2019 20:00 -0400</pubDate>
+            <description><ul> <li>We are accepting requests for Google Cloud Credits ($500 per eligible team). Requests are due by <strong>29 May, 2019</strong>. Please see <a href="/content/challenge-2019/1.0.0/#google-cloud-credits">here</a> for more information on how to apply for them. Requests will be processed in order and sent on to Google. We cannot guarantee you will receive them, especially later in the competition.</li> </ul></description>
+            <guid isPermaLink="false">931fb78e-9d20-4b88-ab3d-0c4669e7c826</guid>
+        </item>
+        <item>
+            <title>Notices of acceptance have been sent for CinC abstracts</title>
+            <pubDate>24 May 2019 20:00 -0400</pubDate>
+            <description><ul> <li>By now you should have received your acceptance or rejection notices for your abstracts. If you were rejected, please do not worry - there are two more options to compete. See <a href="/content/challenge-2019/1.0.0/#wildcard">here</a> and <a href="/content/challenge-2019/1.0.0/#hackathon">here</a> for more information on this.</li> <li>We have added a `wild card&#39; entry to allow one more team to enter the competition and be eligible for all the prizes. See <a href="/content/challenge-2019/1.0.0/#wildcard">here</a> for more information on this.</li> <li>There will be an on-site hackathon revisiting the Challenge (with a separate award) on Sunday 8th September, before the conference begins in Singapore. Any team (whether previously registered for the Challenge or not) with at least one attendee at the conference, who turns up in person to register for the Hackathon, is eligible to enter. See <a href="/content/challenge-2019/1.0.0/#hackathon">here</a> for more information on this.</li> </ul></description>
+            <guid isPermaLink="false">f56bda14-e57c-4b31-9689-a467eb192352</guid>
+        </item>
+        <item>
+            <title>Scoring for the PhysioNet Challenge</title>
+            <pubDate>2 May 2019 20:00 -0400</pubDate>
+            <description><ul> <li>Please check the <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_dGi-82KYDR0lCK0YfcOeHXDRCeunRiw9U8EZdZG654wwOoJX2UTu2AsxCcxfghrBNeZe5c9RYKVV/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false">leaderboard</a> for the current Challenge scores.</li> </ul></description>
+            <guid isPermaLink="false">8957942a-2836-418c-95ae-b1a023932452</guid>
+        </item>
+        <item>
+            <title>Now accepting Challenge submissions</title>
+            <pubDate>25 Apr 2019 20:00 -0400</pubDate>
+            <description><ul> <li>We are now accepting submissions for the official phase of the Challenge.</li> <li>Please check the <a href="https://docs.google.com/document/d/1-YCLmie2_1gM4FrpBaSfkhYt8xpYghs8l2vbPemODkw">submission instructions</a> for information about how to submit your entry and a FAQ with common submission issues.</li> <li>When ready, please submit your entry <a href="https://forms.gle/ARfUYv5Vpsa24EaB7">here</a>.</li> </ul></description>
+            <guid isPermaLink="false">3dee3411-33e5-42c5-a867-26305257790d</guid>
+        </item>
+        <item>
+            <title>Official phase of the 20th PhysioNet/Computing in Cardiology Challenge is now open.</title>
+            <pubDate>22 Apr 2019 20:00 -0400</pubDate>
+            <description><ul> <li>We have made several changes from the unofficial phase of the Challenge (see below). We invite comments and questions about these changes. We plan to accept submissions again on Thursday, 25 April at 12:01 am GMT.</li> <li>We will only use our new cloud submission system for the official phase of the Challenge. See the updated instructions (<a href="https://docs.google.com/document/d/1-YCLmie2_1gM4FrpBaSfkhYt8xpYghs8l2vbPemODkw/edit">here</a>) for details. The past submission system is no longer available.</li> <li>We ask participants to write causal algorithms that make predictions using current and past (but not future) information. See the <a href="/content/challenge-2019/1.0.0/#submitting">submission instructions</a> and sample prediction code (<a href="https://github.com/physionetchallenges">here</a>) for details.</li> <li>Note that you will have 10 submissions in this official phase. We will score your results on a subset of the test data. At the end of the competition we will ask you to nominate your &#39;best&#39; algorithm (it need not be the one that gave you the best score) and we will run it on the full test data to provide the final test score.</li> <li>Please do not submit all ten entries in the last week of the competition. Even though we can scale the computing, failures require manual intervention and feedback. We can&#39;t do this for 1000+ entries in the final week.</li> <li>Also - we will be offering up to $500 in Google Cloud credits (courtesy of the Google Cloud Team) to the best performing entries by June, so it&#39;s worth getting a good score before then!</li> </ul></description>
+            <guid isPermaLink="false">d41f90bb-6331-405d-8f10-0580fa275ff5</guid>
+        </item>
+        <item>
+            <title>Your feedback on physionet.org</title>
+            <link>https://forms.gle/WQh3jaZj53yygQJ78</link>
+            <pubDate>22 Apr 2019 16:09 -0400</pubDate>
+            <description><p>The new PhysioNet website is intended to simplify the process of finding and reusing data. Key improvements include:</p> <ul> <li>an updated search tool&nbsp;for finding data and software</li> <li>a new registration system</li> <li>a simplified process for sharing&nbsp;your data and software</li> </ul> <p>We welcome your feedback! Please send us your comments using our <a href="https://forms.gle/WQh3jaZj53yygQJ78">feedback form</a>.</p> <p>Your ideas and suggestions will be used for continuous improvement.</p></description>
+            <guid isPermaLink="false">05ee2422-e69d-4954-b159-9536f88aac0d</guid>
+        </item>
+        <item>
+            <title>Cloud submission system for the 2019 PhysioNet Challenge</title>
+            <pubDate>11 Apr 2019 20:00 -0400</pubDate>
+            <description><ul> <li>We have now implemented a cloud submission system. Instructions for the cloud submission system available here.</li> <li>The deadline of the unofficial phase of the competition has been extended to 11.59pm GMT on Sunday 14th April 2019. This will give you enough time to receive scores and, very importantly, submit abstracts to cinc.org before the 15th. Please <a href="/content/challenge-2019/1.0.0/#abstracts">see here</a> for important hints on how to prepare a successful abstract, even if you don&#39;t receive a score.</li> <li>If you don&#39;t receive a score - don&#39;t panic - just submit an abstract to cinc.org by the deadline on the 15th April with some results - cross validated on the training data.</li> <li>The hiatus has now been moved, and starts on the 15th April and lasts until 12 midnight GMT on the 21st April. The Challenge re-opens at 12.01 am GMT on the 22 April.</li> </ul></description>
+            <guid isPermaLink="false">af33b3b6-54e8-4b02-aa5b-db2355074014</guid>
+        </item>
+        <item>
+            <title>Deadline extended for the 2019 PhysioNet Challenge</title>
+            <pubDate>8 Apr 2019 20:00 -0400</pubDate>
+            <description><ul> <li>The entry submission system is available <a href="https://forms.gle/ARfUYv5Vpsa24EaB7">here</a>.</li> <li>The deadline of the unofficial phase of the competition has been extended to 11.59pm GMT on Wednesday 10th April 2019.</li> </ul></description>
+            <guid isPermaLink="false">d628cd18-d3f4-48d6-9644-a0ad5a20ff74</guid>
+        </item>
+        <item>
+            <title>Expanded training dataset now available</title>
+            <link>https://archive.physionet.org/pnw/challenge-2019-request-access</link>
+            <pubDate>1 Apr 2019 20:00 -0400</pubDate>
+            <description><ul> <li>An <a href="https://archive.physionet.org/pnw/challenge-2019-request-access">expanded training database</a> is now available, containing data from a total of 40,336 subjects.</li> </ul></description>
+            <guid isPermaLink="false">c1538ff6-29fb-4cc4-af37-65b006e74b44</guid>
+        </item>
+        <item>
+            <title>Community forum for the 2018 PhysioNet/CinC Challenge</title>
+            <link>https://groups.google.com/forum/#!forum/physionet-challenges</link>
+            <pubDate>23 Feb 2019 12:54 -0500</pubDate>
+            <description><p>If you have any questions or comments regarding this challenge, please post it directly in our&nbsp;<a href="https://groups.google.com/forum/#!forum/physionet-challenges">Community Discussion Forum</a>. This will increase transparency (benefiting all the competitors) and ensure that all the challenge organizers see your question.</p></description>
+            <guid isPermaLink="false">cfb6d9d8-c624-4a38-9dbc-6fd3073b0b9f</guid>
+        </item>
+        <item>
+            <title>2018 Challenge publications</title>
+            <pubDate>22 Feb 2019 00:00 -0500</pubDate>
+            <description><ul> <li><a href="/files/challenge-2018/1.0.0/papers/index.html">Publications </a> from the 2018 Challenge are now available.</li> </ul></description>
+            <guid isPermaLink="false">c6ebb711-bd54-406c-b6a6-10b56a02c716</guid>
+        </item>
+        <item>
+            <title>New Database Added: NIFEADB</title>
+            <link>https://physionet.org/physiobank/database/nifeadb/</link>
+            <pubDate>19 Feb 2019 00:00 -0500</pubDate>
+            <description>The Non-Invasive Fetal ECG Arrhythmia Database (NIFEA DB) provides a series of fetal arrhythmias recordings (n=12) and a number of control normal rhythm recordings (n=14) performed using the non-invasive fetal electrocardiography (NI-FECG) technique.</description>
+            <guid isPermaLink="false">PhysioNet 20190219.1</guid>
+        </item>
+        <item>
+            <title>PhysioNet/CinC Challenge 2019</title>
+            <link>https://physionet.org/challenge/2019/</link>
+            <pubDate>8 Feb 2019 00:00 -0500</pubDate>
+            <description><p>The PhysioNet/Computing in Cardiology Challenge 2019 has now begun! This year&#39;s topic is prediction of sepsis from clinical data. We are delighted to announce that this year&#39;s Challenge is being sponsored by the Gordon and Betty Moore Foundation, Google and Mathworks.</p></description>
+            <guid isPermaLink="false">PhysioNet 20190208.1</guid>
+        </item>
+        <item>
+            <title>20th PhysioNet/Computing Challenge in Cardiology is now open</title>
+            <pubDate>6 Feb 2019 19:00 -0500</pubDate>
+            <description><ul> <li>This year&#39;s challenge is co-sponsored by the Gordon and Betty Moore Foundation, MathWorks, and Google.</li> <li>The PhysioNet Challenge data, examples, and scoring functions can be <a href="https://archive.physionet.org/pnw/challenge-2019-request-access">downloaded here</a>.</li> <li>If you have any questions or comments regarding this Challenge, then please post them directly in our <a href="https://groups.google.com/group/physionet-challenges">Community Discussion Forum</a>. This will increase transparency (benefiting all the competitors) and ensure that all the Challenge organizers see your question.</li> </ul></description>
+            <guid isPermaLink="false">22f25328-4ed2-4c2e-8c8e-9ea2f063e9b6</guid>
+        </item>
+        <item>
+            <title>New Software and Tutorial: Generalized Multiscale Entropy (GMSE)</title>
+            <link>https://physionet.org/physiotools/gmse/tutorial/</link>
+            <pubDate>2 Feb 2019 00:00 -0500</pubDate>
+            <description>GMSE is a new computational tool for quantifying the volatility of time series. This work extends the multiscale entropy (MSE) algorithm currently available on PhysioNet. The GMSE method was first described in Costa M., Goldberger A.L. <a href="https://www.mdpi.com/1099-4300/17/3/1197">Generalized Multiscale Entropy Analysis: Application to Quantifying the Complex Volatility of Human Heartbeat Time Series</a>. Entropy 2015;17:1197-1203.</description>
+            <guid isPermaLink="false">PhysioNet 20190202.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: MIMIC-CXR</title>
+            <link>https://physionet.org/physiobank/database/mimiccxr/</link>
+            <pubDate>29 Jan 2019 00:00 -0500</pubDate>
+            <description>MIMIC-CXR is a large, publicly-available database comprising of de-identified chest radiographs. The dataset contains 371,920 chest x-rays associated with 227,943 imaging studies. This database is described in Johnson AEW, Pollard TJ, Berkowitz S, Greenbaum NR, Lungren MP, Deng C-Y, Mark RG, Horng S. <a href="https://arxiv.org/abs/1901.07042"> MIMIC-CXR: A large publicly available database of labeled chest radiographs</a>. arXiv (2019).</description>
+            <guid isPermaLink="false">PhysioNet 20190129.1</guid>
+        </item>
+        <item>
+            <title>New Platform In Alpha Testing</title>
+            <link>https://alpha.physionet.org/</link>
+            <pubDate>1 Jan 2019 14:47 -0500</pubDate>
+            <description><p>The PhysioNet team has been working on its new web platform. The site is being alpha tested here at <a href="https://alpha.physionet.org/">https://alpha.physionet.org/</a>. The original site will continue running at <a href="https://physionet.org/">https://physionet.org/</a> until its content and functionality is ported over.</p><p>You can leave feedback and track our progress via the <a href="https://github.com/MIT-LCP/physionet-build/">development repository</a>.</p></description>
+            <guid isPermaLink="false">05ee2422-e69d-4954-b159-9536f88aac0d</guid>
+        </item>
+        <item>
+            <title>New Database Added: EEGMAT</title>
+            <link>https://physionet.org/physiobank/database/eegmat/</link>
+            <pubDate>17 Dec 2018 00:00 -0500</pubDate>
+            <description>The database contains EEG recordings of subjects before and during the performance of mental arithmetic tasks.</description>
+            <guid isPermaLink="false">PhysioNet 20181217.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: ECGCIPA</title>
+            <link>https://physionet.org/physiobank/database/ecgcipa/</link>
+            <pubDate>13 Dec 2018 00:00 -0500</pubDate>
+            <description>ECG effects of ranolazine, verapamil, lopinavir+ritonavir, chloroquine, dofetilide, diltiazem, and dofetilide+diltiazem in a small sample size clinical study. The ECGCIPA database contains multi-channel ECG recordings of 60 subjects participating in the CiPA ECG validation study.</description>
+            <guid isPermaLink="false">PhysioNet 20181213.1</guid>
+        </item>
+        <item>
+            <title>Journal of Physiological Measurement is now accepting submissions for the 2018 Challenge</title>
+            <pubDate>28 Nov 2018 00:00 -0500</pubDate>
+            <description><ul> <li>The Journal of Physiological Measurement is now accepting submissions in the focus issue: <a href="http://iopscience.iop.org/journal/0967-3334/page/Automated_Analysis_Arousals_Sleep_Sleep-Related_Disorders">Automated Analysis of Arousals, Sleep and Sleep-Related Disorders Using Physiological Time Series</a>. Please included updated results from the test dataset if you develop a new algorithm. Note that the scope does not confine you to the data and topic of this year&#39;s Challenge. Please see <a href="http://iopscience.iop.org/journal/0967-3334/page/Automated_Analysis_Arousals_Sleep_Sleep-Related_Disorders">here</a> for more information on the scope and how to submit. The deadline is set for the end of February 2019.</li> </ul></description>
+            <guid isPermaLink="false">3a5e3d84-f28d-45c9-a8ae-59f132584a01</guid>
+        </item>
+        <item>
+            <title>Physiological Measurement Focus Issue</title>
+            <link>http://iopscience.iop.org/journal/0967-3334/page/Automated_Analysis_Arousals_Sleep_Sleep-Related_Disorders</link>
+            <pubDate>28 Nov 2018 00:00 -0500</pubDate>
+            <description>The Journal of Physiological Measurement is now accepting submissions in the focus issue: Automated Analysis of Arousals, Sleep and Sleep-Related Disorders Using Physiological Time Series. Please included updated results from the test dataset if you develop a new algorithm. Note that the scope does not confine you to the data and topic of this year's Challenge. The deadline is set for the end of February 2019.</description>
+            <guid isPermaLink="false">PhysioNet 20181128.1</guid>
+        </item>
+        <item>
+            <title>New Toolkit Added: dSQI</title>
+            <link>https://physionet.org/physiotools/dsqi/</link>
+            <pubDate>16 Nov 2018 00:00 -0500</pubDate>
+            <description>The advent of telehealth applications and remote patient monitoring has led to an increasing need for continuous signal quality monitoring to ensure high diagnostic accuracy of the recordings. Cardiovascular diseases often manifest electrophysiological anomalies, therefore the electrocardiogram (ECG) is one of the most used signals for diagnostic applications. Various types of noise and artifacts are not uncommon in ECG recordings and assessing the quality of the signal is essential prior to any clinical interpretation. In this study, a dynamic signal quality index (dSQI) is introduced using a new time-frequency template-based approach.</description>
+            <guid isPermaLink="false">PhysioNet 20181116.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: RVMH1</title>
+            <link>https://physionet.org/physiobank/database/rvmh1/</link>
+            <pubDate>14 Nov 2018 00:00 -0500</pubDate>
+            <description>Functional metrics of autonomic control of heart rate, including baroreflex sensitivity, have been shown to be strongly associated with cardiovascular risk. A decrease in baroreflex sensitivity with aging is hypothesized to represent a contributing causal factor in the etiology of primary hypertension. To assess baroreflex function in human subjects, two complementary methods to simulate the response in heart rate elicited by the Valsalva maneuver were developed and applied to data obtained from a cohort of healthy normal volunteers.</description>
+            <guid isPermaLink="false">PhysioNet 20181114.1</guid>
+        </item>
+        <item>
+            <title>Official results for the 2018 Challenge</title>
+            <pubDate>10 Oct 2018 00:00 -0400</pubDate>
+            <description><ul> <li><a href="/content/challenge-2018/1.0.0/results.csv">Official results</a>, as well as a <a href="/content/challenge-2018/1.0.0/challenge2018cinc.pdf">paper describing the Challenge</a>, are now available. Top scores were achieved by <ol> <li>Matthew Howe-Patterson, Bahareh Pourbabaee, and Frederic Benard (0.54)</li> <li>Gu&eth;ni Fannar Kristjansson, Hei&eth;ar M&aacute;r &THORN;r&aacute;insson, Hanna Ragnarsd&oacute;ttir, Bragi Marin&oacute;sson, Eysteinn Gunnlaugsson, Eysteinn Finnsson, Sigur&eth;ur &AElig;gir J&oacute;nsson, Halla Helgad&oacute;ttir, and J&oacute;n Sk&iacute;rnir &Aacute;g&uacute;stsson (0.45)</li> <li>Runnan He, Kuanquan Wang, Yang Liu, Na Zhao, Yongfeng Yuan, Qince Li, and Henggui Zhang (0.43)</li> </ol> </li> <li>An unofficial entry from Hongyang Li and Yuanfang Guan (who unfortunately missed the deadline to submit an abstract) achieved a score of 0.55.</li> </ul></description>
+            <guid isPermaLink="false">53f3928a-ce22-44de-b3a0-dcdd4ee2f995</guid>
+        </item>
+        <item>
+            <title>New Database Added: CVES</title>
+            <link>https://physionet.org/physiobank/database/cves/</link>
+            <pubDate>4 Oct 2018 00:00 -0400</pubDate>
+            <description>This database contains multimodal data from a large study investigating the effects of ischemic stroke on cerebral vasoregulation. The cross sectional study compared 60 subjects who suffered strokes, to 60 control subjects, collecting the following data for each patient across multiple days: transcranial doppler of cerebral arteries, 24-h blood pressure numerics, high resolution waveforms (ECG, blood pressure, CO2 and respiration) during various movement tasks, 24-h ECG, EMG, and accelerometer recordings, and gait pressure recordings during a walking test.</description>
+            <guid isPermaLink="false">PhysioNet 20181004.1</guid>
+        </item>
+        <item>
+            <title>Submission is now closed for the 2018 Challenge</title>
+            <pubDate>1 Sep 2018 00:00 -0400</pubDate>
+            <description><ul> <li>Challenge entry submission is now closed. Authors must select the entry they wish to be run against the full Challenge data set before 10 Sept 2018 (midnight GMT, 7pm EDT). After this deadline the most recent entry (only) will be selected and evaluated on the full test data.</li> <li>Winners will be announced and prizes presented at <a href="http://www.cinc.org"> Computing in Cardiology </a> on 26 Sept 2018.</li> </ul></description>
+            <guid isPermaLink="false">696c6b21-ef14-44ec-9305-1d6eab92688e</guid>
+        </item>
+        <item>
+            <title>New Database Added: CULM</title>
+            <link>https://physionet.org/physiobank/database/culm/</link>
+            <pubDate>30 Aug 2018 00:00 -0400</pubDate>
+            <description>The Complex Upper-Limb Movements database contains hand trajectory data from ten subjects undergoing writing tasks, used to model motor primitives.</description>
+            <guid isPermaLink="false">PhysioNet 20180830.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: TPEHGT</title>
+            <link>https://physionet.org/physiobank/database/tpehgt/</link>
+            <pubDate>29 Aug 2018 00:00 -0400</pubDate>
+            <description>The Term-Preterm ElectroHysteroGram DataSet with Tocogram (TPEHGT DS) contains 26 four-signal 30-min uterine EHG records, i.e., three EHG signals accompanied by a simultaneously recorded external tocogram measuring mechanical uterine activity (TOCO signal) of pregnant women, and another five 30-min uterine records (EHG signals and TOCO signal) of non-pregnant women.</description>
+            <guid isPermaLink="false">PhysioNet 20180829.1</guid>
+        </item>
+        <item>
+            <title>Database Expanded: sleep-edfx</title>
+            <link>https://physionet.org/physiobank/database/sleep-edfx/</link>
+            <pubDate>17 Jul 2018 00:00 -0400</pubDate>
+            <description>The sleep-edf database has been expanded to contain 197 whole-night PolySomnoGraphic sleep recordings, containing EEG, EOG, chin EMG, and event markers. Some records also contain respiration and body temperature.</description>
+            <guid isPermaLink="false">PhysioNet 20180717.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: BIDMC</title>
+            <link>https://physionet.org/physiobank/database/bidmc/</link>
+            <pubDate>20 Jun 2018 00:00 -0400</pubDate>
+            <description>This dataset contains signals and numerics extracted from the much larger MIMIC II matched waveform Database, along with manual breath annotations made from two annotators, using the impedance respiratory signal.</description>
+            <guid isPermaLink="false">PhysioNet 20180620.1</guid>
+        </item>
+        <item>
+            <title>Notices of acceptance have been sent for CinC abstracts</title>
+            <pubDate>20 Jun 2018 00:00 -0400</pubDate>
+            <description><ul> <li>CinC abstract acceptances/rejections have now been sent out.</li> <li>If your abstract was rejected, do not be despondent - please see the Rules and Deadlines below for a second chance to have your abstract accepted for and stay in the official running for the Challenge. This is chance is open to everyone, not just those with rejected abstracts.</li> <li>If your abstract was accepted, please <a href="https://www.softconf.com/i/cinc2018/">log in to the conference site</a> and agree that you will attend. Then, you must submit a full article describing your results and mark it as a preprint (for others to read) by September 15th. (Don&#39;t forget that the competition deadline is noon GMT on the 1st September - this deadline will <em>not</em> be extended)</li> <li>If you will need a visa to attend CinC, please do this immediately, and <a href="http://www.cinc2018.org/visa/">follow these instructions</a>.</li> </ul></description>
+            <guid isPermaLink="false">14a84e89-e3f6-4f9c-bda9-1daa12b368fe</guid>
+        </item>
+        <item>
+            <title>New Database Added: VOICED</title>
+            <link>https://physionet.org/physiobank/database/voiced/</link>
+            <pubDate>7 Jun 2018 00:00 -0400</pubDate>
+            <description>This database includes 208 voice samples, from 150 pathological, and 58 healthy voices.</description>
+            <guid isPermaLink="false">PhysioNet 20180607.1</guid>
+        </item>
+        <item>
+            <title>New Software: PCST</title>
+            <link>https://physionet.org/physiotools/physionet-cardiovascular-signal-toolbox/</link>
+            <pubDate>15 May 2018 00:00 -0400</pubDate>
+            <description>The PhysioNet Cardiovascular Signal Toolbox is an open-source modular program for calculating heart rate variability (HRV) implemented in Matlab with evidence-based algorithms and output formats. The Toolbox is compatible with 64-bit MATLAB on GNU/Linux, Mac OS X, and MS-Windows.</description>
+            <guid isPermaLink="false">PhysioNet 20180515.1</guid>
+        </item>
+        <item>
+            <title>Top scores in the unofficial phase of the 2018 Challenge</title>
+            <pubDate>7 May 2018 00:00 -0400</pubDate>
+            <description><ul> <li><a href="/content/challenge-2018/1.0.0/unofficial-phase-results.csv">Top scores in the Unofficial Phase</a> were achieved by Matthew HP and Bahareh Pourbabaee with a score of 0.439, Yang Liu and Runnan He with a score of 0.244, and M&aacute;rton G&ouml;r&ouml;g, B&aacute;lint Varga, and P&eacute;ter Hajas with a score of 0.228.</li> <li>An <a href="/content/challenge-2018/1.0.0/new-arousals.zip">updated set of arousal files</a> are now available.</li> <li>A <a href="/content/challenge-2018/1.0.0/score2018.m">Matlab implementation of the scoring function</a> is now available.</li> <li>Both the Python and Matlab sample submissions have been updated to use the new scoring code.</li> </ul></description>
+            <guid isPermaLink="false">0c0da477-09ae-4ce3-95ce-7db3cf2e3009</guid>
+        </item>
+        <item>
+            <title>New Software: GEH</title>
+            <link>https://physionet.org/physiotools/geh/</link>
+            <pubDate>2 May 2018 00:00 -0400</pubDate>
+            <description>These software scripts calculate Global Electrical Heterogeneity scores of ecg signals, which characterize the degree of heterogeneity of the total recovery time across the ventricles.</description>
+            <guid isPermaLink="false">PhysioNet 20180502.1</guid>
+        </item>
+        <item>
+            <title>Community forum for the 2017 PhysioNet/CinC Challenge</title>
+            <link>https://groups.google.com/forum/#!forum/physionet-challenges</link>
+            <pubDate>28 Apr 2018 14:10 -0400</pubDate>
+            <description><p>If you have any questions or comments regarding this challenge, please post it directly in our&nbsp;<a href="https://groups.google.com/forum/#!forum/physionet-challenges">Community Discussion Forum</a>. This will increase transparency (benefiting all the competitors) and ensure that all the challenge organizers see your question.</p></description>
+            <guid isPermaLink="false">72221b90-ac46-4184-8360-c7d5091618e3</guid>
+        </item>
+        <item>
+            <title>Python scoring function now available for the 2018 Challenge</title>
+            <pubDate>19 Apr 2018 00:00 -0400</pubDate>
+            <description><ul> <li>A Python implementation of the scoring function (gross area under precision-recall curve) is available <a href="/content/challenge-2018/1.0.0/score.py">here</a>.</li> </ul></description>
+            <guid isPermaLink="false">a5fb607e-8294-49b7-a56f-8c6d532cb193</guid>
+        </item>
+        <item>
+            <title>A second sample submission is available for the 2018 Challenge</title>
+            <pubDate>10 Apr 2018 00:00 -0400</pubDate>
+            <description><ul> <li>A second <a href="/content/challenge-2018/1.0.0/sample-matlab#files-panel">sample submission, implemented using Matlab</a>, has been posted.</li> <li><em>Be sure to submit your abstract for Computing in Cardiology before April 15!</em> See <a href="http://www.cinc.org/cinc-conference-program-abstracts">the CinC site</a> for more information. Please submit an abstract with your <em>training</em> results, even if you have not yet been able to obtain a score on the test set.</li> </ul></description>
+            <guid isPermaLink="false">89ae89f3-746f-4e26-8c2c-c625ef02ff83</guid>
+        </item>
+        <item>
+            <title>Submission and scoring functions for the 2018 Challenge are now online.</title>
+            <pubDate>7 Apr 2018 00:00 -0400</pubDate>
+            <description><ul> <li>A <a href="/content/challenge-2018/1.0.0/sample#files-panel">sample submission and scoring function</a> are now online.</li> <li>The entry submission system is now open; you can access it <a href="https://challenge.physionet.org/">here</a>.</li> <li>The deadline for the Unofficial Phase has been extended. The new deadline is noon GMT, April 13.</li> </ul></description>
+            <guid isPermaLink="false">3d4adc10-89af-4b72-90c9-9f305802a658</guid>
+        </item>
+        <item>
+            <title>2018 Challenge data is now available</title>
+            <pubDate>21 Feb 2018 00:00 -0500</pubDate>
+            <description><ul> <li>PhysioNet Challenge data can now be <a href="/physiobank/database/challenge/2018/#files">downloaded here.</a></li> </ul></description>
+            <guid isPermaLink="false">954c5b22-4ff4-4e64-8900-e9a883488b30</guid>
+        </item>
+        <item>
+            <title>The 2018 PhysioNet Challenge is now open</title>
+            <link>https://physionet.org/challenge/2018/</link>
+            <pubDate>21 Feb 2018 00:00 -0500</pubDate>
+            <description><p>The 2018 PhysioNet/Computing in Cardiology Challenge is now open. This year&#39;s Challenge, &quot;You Snooze, You Win&quot;, is focused on the problem of automatically detecting disturbances in a patient&#39;s sleep. Given a collection of physiological signals recorded during sleep, including EEG, ECG, and EMG, participants are invited to develop an algorithm to automatically identify arousal events, and will be scored based on how well their algorithm&#39;s results agree with those of expert human annotators.</p></description>
+            <guid isPermaLink="false">PhysioNet 20180221.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: SLEEPBRL</title>
+            <link>https://physionet.org/physiobank/database/sleepbrl/</link>
+            <pubDate>7 Feb 2018 00:00 -0500</pubDate>
+            <description>The database contains 32 records of non-contact sleep monitoring by a bioradar. The records are accompanied by results of sleep scoring, based on polysomnography according to the rules of the American Academy of Sleep Medicine.</description>
+            <guid isPermaLink="false">PhysioNet 20180207.1</guid>
+        </item>
+        <item>
+            <title>2017 PhysioNet Challenge Papers Available</title>
+            <link>https://physionet.org/files/challenge-2017/1.0.0/papers/index.html</link>
+            <pubDate>2 Feb 2018 00:00 -0500</pubDate>
+            <description><p>All the papers from the 2017 Challenge along with their corresponding PDFs are <a href="/files/challenge-2017/1.0.0/papers/index.html">now available</a>.</p></description>
+            <guid isPermaLink="false">PhysioNet 20180202.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: CUILESS16</title>
+            <link>https://physionet.org/physiobank/database/cuiless16/</link>
+            <pubDate>24 Jan 2018 00:00 -0500</pubDate>
+            <description>The Concept Unique Identifier (CUI)-less database contains a corpus of "CUI-less" concepts taken from the SemEval2015 Task 14 that have been assigned CUIs. The annotation process allows assignment of CUIS from any Unified Medical Language System (UMLS) semantic group and compositional normalization using more than one CUI per disease entity. Concepts are mapped to SNOMED CT as represented in the September 2016 version found in Unified Medical Language System (UMLS) 2016AB.</description>
+            <guid isPermaLink="false">PhysioNet 20180124.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: PWAVE</title>
+            <link>https://physionet.org/physiobank/database/pwave/</link>
+            <pubDate>9 Jan 2018 00:00 -0500</pubDate>
+            <description>This database contains reference p-wave annotations for twelve signals from the MIT-BIH arrhythmia database.</description>
+            <guid isPermaLink="false">PhysioNet 20180109.1</guid>
+        </item>
+        <item>
+            <title>New Research Approach</title>
+            <link>https://sciencetrends.com/fragmentation-heartbeat-probing-breakdown-biologic-time-aging-disease/</link>
+            <pubDate>13 Dec 2017 00:00 -0500</pubDate>
+            <description>Drs. Madalena Costa and Ary Goldberger, members of the PhysioNet team, have recently published an article in Science Trends about heart rate fragmentation. Heart rate fragmentation is a new approach to conceptualizing and measuring heart rate dynamics. The article provides links to two studies recently published in the journal Frontiers in Physiology.</description>
+            <guid isPermaLink="false">PhysioNet 20171213.1</guid>
+        </item>
+        <item>
+            <title>Slides describing the results of the 2017 PhysioNet/CinC Challenge</title>
+            <pubDate>23 Oct 2017 14:09 -0400</pubDate>
+            <description><p>Slides presented at Computing in Cardiology in Rennes, France on the 26th-27th September 2017, and at the Annual Data Institute Conference at the USF Data Science Institute, San Francisco, CA, USA on the 17th October 2017 can be found&nbsp;<a href="/content/challenge-2017/1.0.0/Clifford_Physionet_Challenge2017_USF_DS_Conference_October_15-17-2017.pdf">here&nbsp;</a>.</p></description>
+            <guid isPermaLink="false">2c10073f-693d-4b28-b8b7-62078a06b660</guid>
+        </item>
+        <item>
+            <title>New Database Added: TAPPY</title>
+            <link>https://physionet.org/physiobank/database/tappy/</link>
+            <pubDate>20 Oct 2017 01:00 -0400</pubDate>
+            <description>The dataset contains keystroke logs collected from over 200 subjects, with and without Parkinson's Disease (PD), as they typed normally on their own computer (without any supervision) over a period of weeks or months (having initially installed a custom keystroke recording app, Tappy). This dataset has been collected and analyzed in order to indicate that the routine interaction with computer keyboards can be used to detect changes in the characteristics of finger movement in the early stages of PD.</description>
+            <guid isPermaLink="false">PhysioNet 20171020.2</guid>
+        </item>
+        <item>
+            <title>New Database Added: WRIST</title>
+            <link>https://physionet.org/physiobank/database/wrist/</link>
+            <pubDate>20 Oct 2017 00:00 -0400</pubDate>
+            <description>This database contains wrist PPGs recorded during walking, running and bike riding. Simultaneous motion estimates are collected using both accelerometers and gyroscopes to give multiple options for the removal of motion interference from the PPG traces. A reference chest ECG is included to allow a gold-standard comparison of heart rate during exercise.</description>
+            <guid isPermaLink="false">PhysioNet 20171020.1</guid>
+        </item>
+        <item>
+            <title>Performance of algorithms in the 2017 PhysioNet/CinC Challenge</title>
+            <pubDate>10 Oct 2017 14:06 -0400</pubDate>
+            <description><p>A more detailed breakdown of performance of each official algorithm is now available&nbsp;<a href="/content/challenge-2017/1.0.0/results_all_F1_scores_for_each_classification_type.csv">here.</a></p></description>
+            <guid isPermaLink="false">0bdfbb9c-89b6-4874-8bb5-58f1a6a29e56</guid>
+        </item>
+        <item>
+            <title>Official results for the 2017 PhysioNet/CinC Challenge</title>
+            <pubDate>10 Oct 2017 14:00 -0400</pubDate>
+            <description><p>The&nbsp;<a href="/content/challenge-2017/1.0.0/results.csv">official results</a>&nbsp;are now available, as well as a&nbsp;<a href="/content/challenge-2017/1.0.0/Clifford_et-al-challenge_2017_CinC_paper.pdf">summary paper of the Challenge</a>.</p></description>
+            <guid isPermaLink="false">82012c6b-9e09-42eb-a6b3-7da27a479c87</guid>
+        </item>
+        <item>
+            <title>New Database Added: PMD</title>
+            <link>https://physionet.org/physiobank/database/pmd/</link>
+            <pubDate>28 Sep 2017 00:00 -0400</pubDate>
+            <description>The Pressure Map Dataset for In-bed Posture Classification database contains in-bed posture pressure data from multiple adult participants using two different types of pressure sensing mats.</description>
+            <guid isPermaLink="false">PhysioNet 20170928.1</guid>
+        </item>
+        <item>
+            <title>Winners announced for the 2017 PhysioNet/CinC Challenge</title>
+            <pubDate>27 Sep 2017 13:57 -0400</pubDate>
+            <description><p>Winners were announced at Computing in Cardiology 2017 in Rennes, France! Four teams were tied for first place, with an overall score of 0.83:</p> <ul> <li>Shreyasi Datta, Chetanya Puri, Ayan Mukherjee, Rohan Banerjee, Anirban Dutta Choudhury, Arijit Ukil, Soma Bandyopadhyay, Rituraj Singh, Arpan Pal, and Sundeep Khandelwal</li> <li>Shenda Hong, Meng Wu, Yuxi Zhou, Qingyun Wang, Junyuan Shang, Hongyan Li, and Junqing Xie</li> <li>Tom&aacute;s Teijeiro, Constantino A. Garc&iacute;a, Paulo F&eacute;lix, and Daniel Castro</li> <li>Morteza Zabihi, Ali Bahrami Rad, Aggelos K. Katsaggelos, Serkan Kiranyaz, Susanna Narkilahti, and Moncef Gabbouj</li> </ul></description>
+            <guid isPermaLink="false">6f1b7c29-dae2-4e17-86f0-adaa77cef4ae</guid>
+        </item>
+        <item>
+            <title>New Database Added: OSV</title>
+            <link>https://physionet.org/physiobank/database/osv/</link>
+            <pubDate>27 Sep 2017 00:00 -0400</pubDate>
+            <description>The Pattern Analysis of Oxygen Saturation Variability database contains one hour oxygen saturation measurements of 36 patients, used for the analysis of oxygen saturation variability.</description>
+            <guid isPermaLink="false">PhysioNet 20170927.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: EARH</title>
+            <link>https://physionet.org/physiobank/database/earh/</link>
+            <pubDate>26 Sep 2017 00:00 -0400</pubDate>
+            <description>The Evoked Auditory Responses in Hearing Impaired database contains evoked Auditory Brainstem Response (ABR) and Otoacoustic Emission (OAE) recordings in eight hearing impaired listeners, in response to tone-burst stimuli across a wide range of levels.</description>
+            <guid isPermaLink="false">PhysioNet 20170926.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: Quantitative Dehydration Estimation</title>
+            <link>https://physionet.org/physiobank/database/qde/</link>
+            <pubDate>10 Aug 2017 00:00 -0400</pubDate>
+            <description>The database contains bioimpedance measurements, temperature measurements, salivary samples, and sweat samples, used in quantitative estimation of dehydration (total body water loss).</description>
+            <guid isPermaLink="false">PhysioNet 20170810.3</guid>
+        </item>
+        <item>
+            <title>New Database Added: MIMIC-III Waveform Database</title>
+            <link>https://physionet.org/physiobank/database/mimic3wdb/</link>
+            <pubDate>9 Aug 2017 00:00 -0400</pubDate>
+            <description>The MIMIC-III Waveform Database has been released, containing our largest collection to date of physiologic signals collected by bedside patient monitors in adult and neonatal intensive care units. Over 44,000 recordings have been added to the existing MIMIC-II Waveform Database, for a total of over 67,000 recordings and over three million hours of waveform data. For about one third of the database (about 22,000 recordings from 10,000 patients), extensive clinical information is also available to qualified researchers via the MIMIC-III Clinical Database.</description>
+            <guid isPermaLink="false">PhysioNet 20170809.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: A Non-EEG Dataset for Assessment of Neurological Status</title>
+            <link>https://physionet.org/physiobank/database/noneeg/</link>
+            <pubDate>19 Jul 2017 02:00 -0400</pubDate>
+            <description>The database contains non-EEG physiological signals collected at Quality of Life Laboratory at University of Texas at Dallas, used to infer the neurological status of 20 healthy subjects. The data collected consists of electrodermal activity, temperature, acceleration, heart rate, and arterial oxygen level.</description>
+            <guid isPermaLink="false">PhysioNet 20170719.3</guid>
+        </item>
+        <item>
+            <title>New Database Added: University of Cagliari ElectroTastegram Database (PROP)</title>
+            <link>https://physionet.org/physiobank/database/unicaprop/</link>
+            <pubDate>19 Jul 2017 01:00 -0400</pubDate>
+            <description>The University of Cagliari electroTastegram database contains 39 differential biopotential measurements recorded from the tongues of as many healthy voluntary human subjects (16 males, 23 females, equally divided into the three PROP taster status classes), during a stimulation with 30uL, 3.2 mmol/L solution of 6-n-propylthiouracil (PROP).</description>
+            <guid isPermaLink="false">PhysioNet 20170719.2</guid>
+        </item>
+        <item>
+            <title>New Database Added: Shiraz University Fetal Heart Sounds Database</title>
+            <link>https://physionet.org/physiobank/database/sufhsdb/</link>
+            <pubDate>19 Jul 2017 00:00 -0400</pubDate>
+            <description>The Shiraz University fetal heart sounds database contains fetal and maternal PCG recordings from 109 pregnant women.</description>
+            <guid isPermaLink="false">PhysioNet 20170719.1</guid>
+        </item>
+        <item>
+            <title>New Research Article</title>
+            <link>http://journal.frontiersin.org/article/10.3389/fphys.2017.00255/full</link>
+            <pubDate>23 May 2017 00:00 -0400</pubDate>
+            <description>Members of the PhysioNet team have recently described fragmentation analysis, a new conceptual and methodologic approach to short-term heart rate variability. See Frontiers in Physiology for full text.</description>
+            <guid isPermaLink="false">PhysioNet 20170523.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: EEG Signals from an RSVP Task</title>
+            <link>https://physionet.org/physiobank/database/ltrsvp/</link>
+            <pubDate>19 May 2017 00:00 -0400</pubDate>
+            <description>The EEG Signals from an RSVP Task database contains EEG data from 11 healthy participants upon rapid presentation of images through the Rapid Serial Visual Presentation (RSVP) protocol at speeds of 5, 6, and 10 Hz.</description>
+            <guid isPermaLink="false">PhysioNet 20170519.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: Tai Chi, Physiological Complexity, and Healthy Aging-Gait</title>
+            <link>https://physionet.org/physiobank/database/taichidb/</link>
+            <pubDate>11 May 2017 00:00 -0400</pubDate>
+            <description>The Tai Chi, Physiological Complexity, and Healthy Aging-Gait database contains two-channel gait recordings of 87 older adults from the Greater Boston area. Subjects were from a hybrid study design that included a two-arm randomized clinical trial (RCT) along with an additional observational comparison group.</description>
+            <guid isPermaLink="false">PhysioNet 20170511.1</guid>
+        </item>
+        <item>
+            <title>National Sleep Research Resource</title>
+            <link>https://sleepdata.org/</link>
+            <pubDate>14 Feb 2017 00:00 -0500</pubDate>
+            <description>The National Sleep Research Resource (NSRR) has expanded its research databases and tools, as well as launching a series of tutorials on their use. The NSRR is supported by the National Heart, Lung, and Blood Institute (NHLBI) of the NIH.</description>
+            <guid isPermaLink="false">PhysioNet 20170214.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: Preterm Infant Cardio-Respiratory Signals Database</title>
+            <link>https://physionet.org/physiobank/database/picsdb/</link>
+            <pubDate>9 Feb 2017 00:00 -0500</pubDate>
+            <description>The Preterm Infant Cardio-respiratory Signals (PICS) database contains simultaneous ECG and respiration recordings of ten preterm infants collected from the Neonatal Intensive Care Unit (NICU) of the University of Massachusetts Memorial Healthcare.</description>
+            <guid isPermaLink="false">PhysioNet 20170209.1</guid>
+        </item>
+        <item>
+            <title>PhysioNet/CinC Challenge 2017</title>
+            <link>https://physionet.org/challenge/2017/</link>
+            <pubDate>1 Feb 2017 17:00 -0500</pubDate>
+            <description><p>We are excited to announce the opening of the annual PhysioNet/Computing in Cardiology Challenge for 2017: AF Classification from a short single lead ECG recording. A database of over 10,000 ECG recordings is being made freely available exclusively for this competition by AliveCor, and represent a serendipitous sample of patient-initiated recordings of one minute or less. They have all been labeled for rhythm by hand into one of four categories: Normal, Atrial Fibrillation, Other Rhythm or Too Noisy to Process. We challenge the public to develop the most accurate classifier of these data into these four categories. As usual, a portion of these data have been hidden from the public to allow us to objectively assess your algorithms.</p></description>
+            <guid isPermaLink="false">PhysioNet 20170201.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: STAFF-III Database</title>
+            <link>https://physionet.org/physiobank/database/staffiii/</link>
+            <pubDate>31 Jan 2017 00:00 -0500</pubDate>
+            <description>The STAFF-III database was acquired during 1995-96 at Charleston Area Medical Center (WV, USA) where single prolonged balloon inflation had been introduced to achieve optimal results of percutaneous transluminal coronary angiography (PTCA) procedures, replacing the typical series of brief inflations. The database consists of standard 12-lead ECG recordings from 104 patients.</description>
+            <guid isPermaLink="false">PhysioNet 20170131.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: CHARIS Database</title>
+            <link>https://physionet.org/physiobank/database/charisdb/</link>
+            <pubDate>19 Jan 2017 00:00 -0500</pubDate>
+            <description>The CHARIS database contains multi-channel recordings of ECG, arterial blood pressure (ABP), and intracranial pressure (ICP) of patients diagnosed with traumatic brain injury (TBI). The data is contributed by members of the CHARIS project which aims to systematize the analysis of relevant physiological signals, and create data-driven algorithms to search for potential predictors of acute clinical events for patients with acute brain injury.</description>
+            <guid isPermaLink="false">PhysioNet 20170119.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: neuroQWERTY MIT-CSXPD</title>
+            <link>https://physionet.org/physiobank/database/nqmitcsxpd/</link>
+            <pubDate>20 Dec 2016 00:00 -0500</pubDate>
+            <description>The neuroQWERTY MIT-CSXPD database contains keystroke logs collected from 85 subjects with and without parkinsons disease (PD). This dataset has been collected and analyzed in order to indicate that the routine interaction with computer keyboards can be used to detect motor signs in the early stages of PD.</description>
+            <guid isPermaLink="false">PhysioNet 20161220.1</guid>
+        </item>
+        <item>
+            <title>New Toolkit Added: CHARIS GUI</title>
+            <link>https://physionet.org/physiotools/charis_gui/</link>
+            <pubDate>16 Dec 2016 00:00 -0500</pubDate>
+            <description>The Cerebral Haemodynamic Autoregulatory Information System (CHARIS) GUI toolkit contains a Matlab GUI used to display and process intracranial pressure features and relationships with other physiological signals.</description>
+            <guid isPermaLink="false">PhysioNet 20161216.1</guid>
+        </item>
+        <item>
+            <title>Special issue of Physiological Measurement on "Recent advances in heart sound analysis"</title>
+            <link>http://iopscience.iop.org/journal/0967-3334/page/Recent-advances-in-heart-sound-analysis</link>
+            <pubDate>21 Nov 2016 12:42 -0500</pubDate>
+            <description><p>The journal&nbsp;<em>Physiological Measurement</em>&nbsp;is hosting a special issue on &ldquo;<a href="http://iopscience.iop.org/journal/0967-3334/page/Recent-advances-in-heart-sound-analysis">Recent advances in heart sound analysis</a>&rdquo;. We encourage all Challenge2016 entrants (and those who missed the opportunity to compete or attend CinC 2016) to submit extended analyses and articles to that issue, taking into account the publications and discussions at CinC 2016.</p></description>
+            <guid isPermaLink="false">41ba5b06-3ef3-4078-9a65-7d903d138cac</guid>
+        </item>
+        <item>
+            <title>2016 CinC/PhysioNet Challenge papers</title>
+            <pubDate>21 Nov 2016 12:38 -0500</pubDate>
+            <description><p><a href="/files/challenge-2016/1.0.0/papers/index.html">Papers</a>&nbsp;and corresponding&nbsp;<a href="/static/published-projects/challenge-2016/1.0.0/sources/">source code</a>&nbsp;from the 2016 Challenge are now online.</p></description>
+            <guid isPermaLink="false">29c4d12f-ed87-4f40-a81e-f106c33f476d</guid>
+        </item>
+        <item>
+            <title>New Database Added: ECGDMMLD</title>
+            <link>https://physionet.org/physiobank/database/ecgdmmld/</link>
+            <pubDate>15 Sep 2016 00:00 -0400</pubDate>
+            <description>The ECG effects of Dofetilide, Moxifloxacin, Dofetilide+Mexiletine, Dofetilide+Lidocaine and Moxifloxacin+Diltiazem in Healthy Subjects database contains data from a randomized, double-blind, 5-period crossover clinical trial in healthy male and female subjects, 18 to 35 years of age, to compare the electrophysiological response of hERG potassium channel blocking drugs with and without the addition of late sodium or calcium channel blocking drugs.</description>
+            <guid isPermaLink="false">PhysioNet 20160915.1</guid>
+        </item>
+        <item>
+            <title>Database Updated: MSSVEPDB</title>
+            <link>https://physionet.org/physiobank/database/mssvepdb/</link>
+            <pubDate>3 Sep 2016 00:00 -0400</pubDate>
+            <description>The MAMEM steady state visually evoked potentials database has been updated with a third experimental dataset.</description>
+            <guid isPermaLink="false">PhysioNet 20160903.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: ECGRDVQ</title>
+            <link>https://physionet.org/physiobank/database/ecgrdvq/</link>
+            <pubDate>26 Jul 2016 00:00 -0400</pubDate>
+            <description>The ECG Effects of Ranolazine, Dofetilide, Verapamil, and Quinidine in Healthy Subjects database contains multi-channel ECG recordings of subjects partaking in a randomized, double-blind, 5-period crossover clinical trial aimed at comparing the effects of four known QT prolonging drugs versus placebo on electrophysiological and other clinical parameters.</description>
+            <guid isPermaLink="false">PhysioNet 20160726.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: LTMM</title>
+            <link>https://physionet.org/physiobank/database/ltmm/</link>
+            <pubDate>20 Jun 2016 00:00 -0400</pubDate>
+            <description>The Long Term Movement Monitoring database contains 3-day 3D accelerometer recordings of 71 elder community residents, used to study gait, stability, and fall risk.</description>
+            <guid isPermaLink="false">PhysioNet 20160620.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: IACCD</title>
+            <link>https://physionet.org/physiobank/database/mimic2-iaccd/</link>
+            <pubDate>9 Jun 2016 00:00 -0400</pubDate>
+            <description>The Indwelling Arterial Catheter Clinical dataset contains clinical data for 1776 patients from the MIMIC-II clinical database. It was the basis for the article: Hsu DJ, et al. The association between indwelling arterial catheters and mortality in hemodynamically stable patients with respiratory failure: A propensity score analysis. Chest, 148(6):1470–1476, Aug. 2015. This dataset was also used by Raffa et al. in Chapter 5 "Data Analysis" of the forthcoming book: Secondary Analysis of Electronic Health Records, published by Springer in 2016.</description>
+            <guid isPermaLink="false">PhysioNet 20160609.1</guid>
+        </item>
+        <item>
+            <title>Database Updated: MSSVEPDB</title>
+            <link>https://physionet.org/physiobank/database/mssvepdb/</link>
+            <pubDate>8 Jun 2016 00:00 -0400</pubDate>
+            <description>The MAMEM steady state visually evoked potentials database containing 256 channel EEG recordings of 11 subjects under the stimulation of flickering lights has been expanded with a second experimental dataset.</description>
+            <guid isPermaLink="false">PhysioNet 20160608.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: HBEDB</title>
+            <link>https://physionet.org/physiobank/database/hbedb/</link>
+            <pubDate>19 May 2016 00:00 -0400</pubDate>
+            <description>The Human Balance Evaluation database contains force platform recordings from 193 subjects undergoing stabilography tests.</description>
+            <guid isPermaLink="false">PhysioNet 20160519.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: FECGSYNDB</title>
+            <link>https://physionet.org/physiobank/database/fecgsyndb/</link>
+            <pubDate>29 Apr 2016 00:00 -0400</pubDate>
+            <description>The fetal ECG synthetic database is a large database of simulated adult and non-invasive fetal ECG (NI-FECG) signals, which provides a robust resource that enables reproducible research in the field. The data is generated using the FECGSYN simulator (visit website).</description>
+            <guid isPermaLink="false">PhysioNet 20160429.1</guid>
+        </item>
+        <item>
+            <title>Physionet Wins AAMI Foundation’s Laufman-Greatbatch Award</title>
+            <link>http://www.aami.org/professionaldevelopment/content.aspx?ItemNumber=1069&navItemNumber=644</link>
+            <pubDate>19 Apr 2016 00:00 -0400</pubDate>
+            <description><p>The Association for the Advancement of Medical Instrumentation (AAMI) has awarded the Foundation&rsquo;s highest honor, the Laufman-Greatbatch Award for 2016, to PhysioNet&rsquo;s founders Ary L. Goldberger, Roger G. Mark, and George B. Moody for the creation and development of the PhysioNet Resource. The <a href="http://www.aami.org/professionaldevelopment/content.aspx?ItemNumber=1069">AAMI website</a> states:</p> <blockquote><em>Named after two pioneers in the field&mdash;Harold Laufman, MD and Wilson Greatbatch, PhD&mdash;this highly regarded award honors an individual or group that has made a unique and significant contribution to the advancement of healthcare technology and systems, service, patient care, or patient safety.</em></blockquote> <blockquote><em>Ary L. Goldberger, MD; Roger G. Mark, MD, PhD; and George Moody&mdash;founders of PhysioNet&mdash;were selected to receive this award for their work over the last 20 years to collect and provide access to &ldquo;big data&rdquo; through the creation of PhysioNet. PhysioNet is a free collection of recorded physiologic signals and related open-source software intended to stimulate current research and new investigations.</em></blockquote></description>
+            <guid isPermaLink="false">PhysioNet 20160419.1</guid>
+        </item>
+        <item>
+            <title>New Database Added: SGAMP</title>
+            <link>https://physionet.org/physiobank/database/sgamp/</link>
+            <pubDate>15 Apr 2016 01:00 -0400</pubDate>
+            <description>The Squid Giant Axon Membrane Potential database contains single-unit neuronal recordings of squid giant axons in response to stimulus currents. The membrane potential and stimulus current are given for a total of 170 trials across 8 different axons.</description>
+            <guid isPermaLink="false">PhysioNet 20160415.2</guid>
+        </item>
+    </channel>
+</rss>

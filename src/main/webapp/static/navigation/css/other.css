@@ -1,0 +1,42 @@
+@charset "UTF-8";
+.header {
+    color: #fff;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0px;
+    z-index: 100;
+    background: #050505;
+    height: 80px; }
+.header-nav2 a {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 32px;
+    overflow: hidden;
+    padding: 0 80px;
+    height: 80px;
+    line-height: 80px;
+    position: relative; }
+a {
+    text-decoration: none;
+    color: inherit; }
+* {
+    padding: 0;
+    margin: 0; }
+sss {
+    margin: 0;
+    font-family: 'PingFangSC-Regular','Source Han Sans CN','Microsoft YaHei', Arial, Helvetica, sans-serif;
+    color: #575757;
+    width: 100%;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 1.5;
+    min-height: 100%;
+    position: relative;
+    overflow: hidden;
+    background: #F0F2F4; }
+/*::-webkit-scrollbar {*/
+/*    width: 5px;*/
+/*    height: 5px;*/
+/*    display: none; }*/
